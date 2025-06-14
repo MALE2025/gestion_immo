@@ -1,5 +1,12 @@
 # gestion_immo
 
+
+pour configurer git github :   
+
+git config --global user.name "votre nom d'utilisateur git"
+git config --global user.email "votre email git "
+
+
 cd : pour se deplacer
 
 git init : pour initialiser
