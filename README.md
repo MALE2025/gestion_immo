@@ -1,3 +1,11 @@
 # gestion_immo
 
-je suis male c'est mon premier jour sur github
+cd : pour se deplacer
+
+git init : pour initialiser
+
+git add . : pour ajouter mis en jour
+
+git commit -m "messagee"   : pour valider update
+
+git push : pour heberger sur le serveur github ou gitlab
